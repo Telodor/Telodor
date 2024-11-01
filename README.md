@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Telodor
 - 👀 I’m interested in coding, k-dramas, tea, science and stuff
-- 🌱 I’m currently learning c# and phyton obviously ;)
+- 🌱 I’m currently learning c# and python obviously ;)
 - 📫 How to reach me (https://social.tchncs.de/@psychonaut)
 - ⚡ Fun fact: i'm going the tea-way
 
